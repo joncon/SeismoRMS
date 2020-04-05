@@ -1,0 +1,3 @@
+*.mseed
+*.npz
+.ipynb_checkpoints/
